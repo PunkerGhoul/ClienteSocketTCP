@@ -1,0 +1,3 @@
+# ClienteSocketTCP
+
+This Java project is a Swing-based GUI client for TCP socket communication. Provides a user-friendly interface for connecting to a server and exchanging messages. The application uses a `SwingWorker` to handle background socket communication, allowing for seamless interaction. Users can input a host IP, port, and a username, and the client facilitates the sending and receiving of messages with a straightforward chat-like interface. This project serves as a foundation for creating a client-side application for TCP socket communication and can be utilized in various scenarios requiring simple and efficient client-server interactions.
